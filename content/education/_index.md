@@ -8,7 +8,7 @@ description: "My academic background and continuous learning path in Data Scienc
 ## Formal Education
 
 **Master in Sound and Music Computing**
-*Universitat Pompeu Fabra (Barcelona, Spain) | 2019*
+*Universitat Pompeu Fabra (Barcelona, Spain) | 2020*
 * Focus on Audio Signal Processing and Deep Learning.
 
 **B.S. Electronic Engineering**
@@ -16,7 +16,7 @@ description: "My academic background and continuous learning path in Data Scienc
 * Strong foundation in Mathematics, Circuit Theory, Programming, and Digital Signal Processing.
 
 **Technology in Musical Informatics & Live Sound**
-*Instituto Tecnológico Metropolitano - ITM (Medellín, Colombia)*
+*Institución Universitaria ITM (Medellín, Colombia) | 2010*
 * Specialized in Composition, Recording Techniques, and Live Sound.
 
 ---
