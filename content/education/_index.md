@@ -1,4 +1,4 @@
----
+no de---
 title: "Education & Certifications"
 date: 2025-12-03
 draft: false
@@ -15,7 +15,7 @@ description: "My academic background and continuous learning path in Data Scienc
 *Universidad de Antioquia (Medellín, Colombia) | 2015*
 * Strong foundation in Mathematics, Circuit Theory, Programming, and Digital Signal Processing.
 
-**Technology in Musical Informatics & Live Sound**
+**Technology in Musical Informatics**
 *Institución Universitaria ITM (Medellín, Colombia) | 2010*
 * Specialized in Composition, Recording Techniques, and Live Sound.
 
