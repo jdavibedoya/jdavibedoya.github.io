@@ -1,23 +1,23 @@
 ---
 title: "Education & Certifications"
-date: 2025-12-03
+date: 2025-12-04
 draft: false
 description: "Academic Background and Continuous Learning Path in AI and Audio Technology"
 ---
 
 ## Formal Education
 
-**Master in Sound and Music Computing**
-*Universitat Pompeu Fabra (Barcelona, Spain) | 2020*
-* Focus on Audio Signal Processing and Deep Learning.
+**Master in Sound and Music Computing**  
+Universitat Pompeu Fabra (Barcelona, Spain) | 2020  
+*Focus on Audio Signal Processing and Deep Learning.*
 
-**B.S. Electronic Engineering**
-*Universidad de Antioquia (Medellín, Colombia) | 2015*
-* Strong foundation in Mathematics, Circuit Theory, Programming, and Digital Signal Processing.
+**B.S. Electronic Engineering**  
+Universidad de Antioquia (Medellín, Colombia) | 2015  
+*Strong foundation in Mathematics, Circuit Theory, Programming, and DSP.*
 
-**Technology in Musical Informatics**
-*Institución Universitaria ITM (Medellín, Colombia) | 2010*
-* Specialized in Composition, Recording Techniques, and Live Sound.
+**Technology in Musical Informatics**  
+Institución Universitaria ITM (Medellín, Colombia) | 2010  
+*Specialized in Composition, Recording Techniques, and Live Sound.*
 
 ---
 
@@ -28,24 +28,29 @@ I am a firm believer in lifelong learning. Over the years, I have completed a wi
 ### 🚀 Current Focus (In Progress)
 * **Machine Learning Engineer Professional Certificate** (Google Cloud)
 * **Data Analytics Professional Certificate** (DeepLearning.AI)
-* **Generative AI for Audio and Images: Models and Applications** (Alberta Machine Intelligence Institute)
+* **Generative AI for Audio and Images** (Alberta Machine Intelligence Institute)
 
 ### 🎓 Key Specializations & Coursework
 
 #### 🧠 Artificial Intelligence & Data Science
-* **Deep Learning Specialization** (DeepLearning.AI) - *Neural Networks, CNNs, Sequence Models.*
-* **Machine Learning Specialization** (Stanford University) - *Supervised/Unsupervised learning.*
-* **Mathematics for Machine Learning Specialization** (Imperial College London) - *Linear Algebra & Calculus.*
+* **Deep Learning Specialization** (DeepLearning.AI)  
+  *Neural Networks, CNNs, Sequence Models.*
+* **Machine Learning Specialization** (Stanford University)  
+  *Supervised/Unsupervised learning.*
+* **Mathematics for Machine Learning Specialization** (Imperial College London)  
+  *Linear Algebra & Calculus.*
 * **DeepLearning.AI TensorFlow Developer Professional Certificate** (DeepLearning.AI)
 * **Python for Everybody Specialization** (University of Michigan)
-* *Diverse coursework in:* Probability & Statistics, Excel, Digital Signal Processing, etc.
+* *Coursework in:* Probability & Statistics, Excel, Digital Signal Processing, etc.
 
 #### 🎛️ Audio Technology & Music
-* **Modern Musician Specialization** (Berklee College of Music) - *Songwriting, Music Production.*
-* **Ableton Live** (Seed To Stage - Anthony Thogmartin) - *Sound Design & Synthesis, Mixing & Mastering.*
-* **Audio and Music Engineering: Musical Sound & Electronics** (University of Rochester)
+* **Modern Musician Specialization** (Berklee College of Music)  
+  *Songwriting, Music Production.*
+* **Ableton Live** (Seed To Stage - Anthony Thogmartin)  
+  *Sound Design & Synthesis, Mixing & Mastering.*
+* **Musical Sound & Electronics** (University of Rochester)
 * **Music Technology** (Georgia Institute of Technology)
-* *Diverse coursework in:* Jazz Improvisation, Rehearsing Music Ensembles, Music Business, etc.
+* *Coursework in:* Jazz Improvisation, Rehearsing Music Ensembles, Music Business, etc.
 
 ---
 *Note: Full list of certifications available upon request.*

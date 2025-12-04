@@ -1,11 +1,25 @@
 baseURL = "https://jdavibedoya.github.io/"
 languageCode = "en-us"
-title = "Jose David Bedoya Molina - Audio, AI & Machine Learning"
-theme = "ananke"
-publishDir = "docs"
+title = "Jose David Bedoya | Audio, AI & Data Science"
+theme = "PaperMod"
+
+[params]
+  defaultTheme = "auto"
+  # description = "Audio, AI & Data Science Portfolio"
+  
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my portfolio. I am an Electronics Engineer with a Master’s degree in Sound and Music Computing, exploring the intersection of audio, artificial intelligence, and data science."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/jdavibedoya"
+  
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/jdavibedoya"
 
 [menu]
-
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
