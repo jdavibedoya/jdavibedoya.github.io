@@ -1,5 +1,31 @@
 baseURL = "https://jdavibedoya.github.io/"
-languageCode = "es-co"
+languageCode = "en-us"
 title = "Jose David Bedoya Molina - Audio & Data Scientist"
 theme = "ananke"
 publishDir = "docs"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "teaching"
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "education"
+    name = "Education"
+    url = "/education/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 40
