@@ -1,8 +1,8 @@
-no de---
+---
 title: "Education & Certifications"
 date: 2025-12-03
 draft: false
-description: "My academic background and continuous learning path in Data Science and Audio Technology."
+description: "Academic Background and Continuous Learning Path in AI and Audio Technology"
 ---
 
 ## Formal Education
@@ -23,7 +23,7 @@ description: "My academic background and continuous learning path in Data Scienc
 
 ## Continuous Learning
 
-I am a firm believer in lifelong learning. Over the years, I have completed a wide variety of courses, mainly on Coursera, shifting my focus from music and audio technology to mathematics, programming, and artificial intelligence.
+I am a firm believer in lifelong learning. Over the years, I have completed a wide range of courses —primarily through Coursera— shifting my focus from music and audio technology to mathematics, programming, and artificial intelligence.
 
 ### 🚀 Current Focus (In Progress)
 * **Machine Learning Engineer Professional Certificate** (Google Cloud)
@@ -38,7 +38,7 @@ I am a firm believer in lifelong learning. Over the years, I have completed a wi
 * **Mathematics for Machine Learning Specialization** (Imperial College London) - *Linear Algebra & Calculus.*
 * **DeepLearning.AI TensorFlow Developer Professional Certificate** (DeepLearning.AI)
 * **Python for Everybody Specialization** (University of Michigan)
-* *Diverse coursework in:* Digital Signal Processing, Probability & Statistics, Excel, etc.
+* *Diverse coursework in:* Probability & Statistics, Excel, Digital Signal Processing, etc.
 
 #### 🎛️ Audio Technology & Music
 * **Modern Musician Specialization** (Berklee College of Music) - *Songwriting, Music Production.*
