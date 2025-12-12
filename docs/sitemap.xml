@@ -2,17 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jdavibedoya.github.io/education/</loc>
-    <lastmod>2025-12-05T00:00:00+00:00</lastmod>
+    <loc>https://jdavibedoya.github.io/tags/art/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/tags/computer-vision/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/tags/deep-learning/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jdavibedoya.github.io/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/projects/neural-style-transfer/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/projects/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/tags/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/tags/tensorflow/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jdavibedoya.github.io/education/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jdavibedoya.github.io/teaching/</loc>
     <lastmod>2025-12-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jdavibedoya.github.io/categories/</loc>
-  </url><url>
-    <loc>https://jdavibedoya.github.io/tags/</loc>
   </url>
 </urlset>

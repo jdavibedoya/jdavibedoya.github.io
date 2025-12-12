@@ -1,5 +1,6 @@
-+++
-date = '2025-12-03T22:02:28-05:00'
-draft = true
-title = 'Projects'
-+++
+---
+title: "Projects"
+date: 2025-12-12
+draft: false
+description: "Portfolio of projects."
+---

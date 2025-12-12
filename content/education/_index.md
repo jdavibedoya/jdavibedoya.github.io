@@ -32,7 +32,7 @@ I am a firm believer in lifelong learning. Over the years, I have completed a wi
 
 ### 🎓 Key Specializations & Coursework
 
-#### 🧠 Artificial Intelligence & Data Science
+#### 🧠 Artificial Intelligence & Machine Learning
 * <a href="http://coursera.org/verify/specialization/JUAXUV3NYXDV" target="_blank"><strong>Deep Learning Specialization</strong></a> (DeepLearning.AI) - <small>Neural Nets, CNNs, Sequence Models.</small>
 * <a href="http://coursera.org/verify/specialization/A5G3Q49NVU43" target="_blank"><strong>Machine Learning Specialization</strong></a> (Stanford University) - <small>Supervised/Unsupervised.</small>
 * <a href="http://coursera.org/verify/specialization/6ZZLPPUX247T" target="_blank"><strong>Maths for ML Specialization</strong></a> (Imperial College London) - <small>Linear Algebra & Calculus.</small>
