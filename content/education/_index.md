@@ -48,4 +48,4 @@ I am a firm believer in lifelong learning. Over the years, I have completed a wi
 * *Coursework in:* Jazz Improvisation, Rehearsing Music Ensembles, Music Business, etc.
 
 ---
-*Note: Full list of certifications available upon request.*
+<small>*Note: Full list of certifications available upon request.*</small>
