@@ -22,5 +22,12 @@
       <guid>http://localhost:64950/projects/python-games/</guid>
       <description>Games developed as part of the &amp;#39;An Introduction to Interactive Programming in Python&amp;#39; course by Rice University.</description>
     </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:64950/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:64950/about/</guid>
+      <description>Engineer and Lifelong Learner.</description>
+    </item>
   </channel>
 </rss>

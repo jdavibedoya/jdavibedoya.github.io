@@ -42,7 +42,7 @@ I am a firm believer in lifelong learning. Over the years, I have completed a wi
 
 #### 🎛️ Audio Technology & Music
 * **Ableton Live** (Seed To Stage) - <small>Sound Design & Synthesis, Mixing & Mastering.</small>
-* <a href="https://coursera.org/verify/X4A9DEKD2AL6" target="_blank"><strong>Modern Musician Specialization</strong></a> (Berklee) - <small>Songwriting, Music Production.</small>
+* <a href="https://coursera.org/verify/specialization/6CC4UBC7DN6B" target="_blank"><strong>Modern Musician Specialization</strong></a> (Berklee) - <small>Songwriting, Music Production.</small>
 * <a href="http://coursera.org/verify/KBJR9NHE6L" target="_blank"><strong>Musical Sound & Electronics</strong></a> (University of Rochester)
 * <a href="http://coursera.org/verify/KZQDBLUPEL" target="_blank"><strong>Music Technology</strong></a> (Georgia Institute of Technology)
 * *Coursework in:* Jazz Improvisation, Rehearsing Music Ensembles, Music Business, etc.

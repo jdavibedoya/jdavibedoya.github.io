@@ -6,14 +6,14 @@
     <description>Recent content in Python on David Bedoya | Audio, AI &amp; Machine Learning</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:64950/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interactive Python Games</title>
       <link>http://localhost:64950/projects/python-games/</link>
-      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:64950/projects/python-games/</guid>
-      <description>Arcade-style games developed to master Object-Oriented Programming and Event-Driven logic in Python.</description>
+      <description>Games developed as part of the &amp;#39;An Introduction to Interactive Programming in Python&amp;#39; course by Rice University.</description>
     </item>
   </channel>
 </rss>
