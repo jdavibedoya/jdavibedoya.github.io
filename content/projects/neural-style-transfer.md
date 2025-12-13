@@ -12,12 +12,12 @@ cover:
 ---
 
 ### 🎨 The Goal
-This project implements the **Neural Style Transfer** (NST) algorithm, originally proposed by [*Gatys et al.* (2015).](https://arxiv.org/abs/1508.06576)
+This project implements the **Neural Style Transfer** (NST) algorithm, originally proposed by <a href="https://arxiv.org/abs/1508.06576" target="_blank">*Gatys et al.* (2015)</strong></a>.
 
 NST is a deep learning optimization technique that combines the **content** of one image *C* with the **style** of another image *S*. The goal is to generate a new image *G* that preserves the structural content of the first while adopting the artistic texture and appearance of the second.
 
 ### 🔗 Code
-[**Repository on GitHub**](https://github.com/jdavibedoya/neural-style-transfer)
+<a href="https://github.com/jdavibedoya/neural-style-transfer" target="_blank"><strong>Repository on GitHub</strong></a>
 
 ### 🛠️ Tech Stack
 * **Python**

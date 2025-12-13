@@ -26,8 +26,6 @@ A logic-complete implementation of the classic casino card game.
 
 <a href="https://py2.codeskulptor.org/?fbclid=IwY2xjawOcFT9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeM2hcQrQU7b8ePvayzTkP9Pl2H_9hSK-Q-NpzSpbey-4ytMr_WH-soNpAuqU_aem_o-fDmqVSsYF-khsvx29djg#user40_rFE757p6on50Luo.py" target="_blank"><strong>▶️ Launch Blackjack in CodeSkulptor</strong></a>
 
-<br>
-
 <a href="https://py2.codeskulptor.org/?fbclid=IwY2xjawOcFT9leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeM2hcQrQU7b8ePvayzTkP9Pl2H_9hSK-Q-NpzSpbey-4ytMr_WH-soNpAuqU_aem_o-fDmqVSsYF-khsvx29djg#user40_rFE757p6on50Luo.py" target="_blank">
   <img src="/projects/python-games/blackjack.png" width="500" alt="Blackjack Gameplay">
 </a>
@@ -40,8 +38,6 @@ A physics-based arcade shooter utilizing vector mathematics for movement and col
 **Controls:** `Left/Right` to rotate, `Up` to accelerate, `Space` to shoot.
 
 <a href="http://www.codeskulptor.org/?fbclid=IwY2xjawOcGm1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeBZzCSMCx0ZgssZwqZvKIFq9kqXosMnTMA-ybqFBoS83Hd2hciuwW6c-0w44_aem_WJku888STN4wgSsrvBo_Rw#user40_7wAIiN4o82yMvD7.py" target="_blank"><strong>▶️ Launch Spaceship in CodeSkulptor</strong></a>
-
-<br>
 
 <a href="http://www.codeskulptor.org/?fbclid=IwY2xjawOcGm1leHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeBZzCSMCx0ZgssZwqZvKIFq9kqXosMnTMA-ybqFBoS83Hd2hciuwW6c-0w44_aem_WJku888STN4wgSsrvBo_Rw#user40_7wAIiN4o82yMvD7.py" target="_blank">
   <img src="/projects/python-games/spaceship.png" width="500" alt="Spaceship Gameplay">

@@ -2,7 +2,7 @@
 title: "Teaching & Slides"
 date: 2025-12-05
 draft: false
-description: "Slide Decks from Undergraduate Courses."
+description: "Slide Decks from Undergraduate Courses"
 ---
 
 I have lectured at **Institución Universitaria ITM (Medellín, Colombia)** for the past five years, teaching Recording, Audio Processing, Psychoacoustics, and Electroacoustics.

@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 hidemeta: true
-description: "Engineer and Lifelong Learner."
+description: "Engineer and Lifelong Learner"
 ---
 
 <div style="text-align: center; margin-bottom: 1rem;">

@@ -30,6 +30,7 @@ I am a firm believer in lifelong learning. Over the years, I have completed a wi
 * **Data Analytics Professional Certificate** (DeepLearning.AI)
 * **Generative AI for Audio and Images** (Alberta Machine Intelligence Institute)
 
+
 ### 🎓 Key Specializations & Coursework
 
 #### 🧠 Artificial Intelligence & Machine Learning
