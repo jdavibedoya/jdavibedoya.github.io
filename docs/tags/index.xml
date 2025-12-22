@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on David Bedoya | Audio, AI &amp; Machine Learning</title>
-    <link>http://localhost:52345/tags/</link>
+    <link>https://jdavibedoya.github.io/tags/</link>
     <description>Recent content in Tags on David Bedoya | Audio, AI &amp; Machine Learning</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:52345/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdavibedoya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Art</title>
-      <link>http://localhost:52345/tags/art/</link>
+      <link>https://jdavibedoya.github.io/tags/art/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/art/</guid>
+      <guid>https://jdavibedoya.github.io/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:52345/tags/deep-learning/</link>
+      <link>https://jdavibedoya.github.io/tags/deep-learning/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/deep-learning/</guid>
+      <guid>https://jdavibedoya.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>LSTM</title>
-      <link>http://localhost:52345/tags/lstm/</link>
+      <link>https://jdavibedoya.github.io/tags/lstm/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/lstm/</guid>
+      <guid>https://jdavibedoya.github.io/tags/lstm/</guid>
       <description></description>
     </item>
     <item>
       <title>Music Generation</title>
-      <link>http://localhost:52345/tags/music-generation/</link>
+      <link>https://jdavibedoya.github.io/tags/music-generation/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/music-generation/</guid>
+      <guid>https://jdavibedoya.github.io/tags/music-generation/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:52345/tags/python/</link>
+      <link>https://jdavibedoya.github.io/tags/python/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/python/</guid>
+      <guid>https://jdavibedoya.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>TensorFlow</title>
-      <link>http://localhost:52345/tags/tensorflow/</link>
+      <link>https://jdavibedoya.github.io/tags/tensorflow/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/tensorflow/</guid>
+      <guid>https://jdavibedoya.github.io/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
       <title>CNN</title>
-      <link>http://localhost:52345/tags/cnn/</link>
+      <link>https://jdavibedoya.github.io/tags/cnn/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/cnn/</guid>
+      <guid>https://jdavibedoya.github.io/tags/cnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:52345/tags/computer-vision/</link>
+      <link>https://jdavibedoya.github.io/tags/computer-vision/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/computer-vision/</guid>
+      <guid>https://jdavibedoya.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>TensorFlow&#34;</title>
-      <link>http://localhost:52345/tags/tensorflow/</link>
+      <link>https://jdavibedoya.github.io/tags/tensorflow/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/tensorflow/</guid>
+      <guid>https://jdavibedoya.github.io/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
       <title>Game</title>
-      <link>http://localhost:52345/tags/game/</link>
+      <link>https://jdavibedoya.github.io/tags/game/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/game/</guid>
+      <guid>https://jdavibedoya.github.io/tags/game/</guid>
       <description></description>
     </item>
     <item>
       <title>OOP</title>
-      <link>http://localhost:52345/tags/oop/</link>
+      <link>https://jdavibedoya.github.io/tags/oop/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/oop/</guid>
+      <guid>https://jdavibedoya.github.io/tags/oop/</guid>
       <description></description>
     </item>
     <item>
       <title>Rice University</title>
-      <link>http://localhost:52345/tags/rice-university/</link>
+      <link>https://jdavibedoya.github.io/tags/rice-university/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:52345/tags/rice-university/</guid>
+      <guid>https://jdavibedoya.github.io/tags/rice-university/</guid>
       <description></description>
     </item>
   </channel>
