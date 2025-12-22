@@ -49,3 +49,5 @@ publishDir = "docs"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+# Forzando reconstrucción del sitio
