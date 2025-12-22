@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>TensorFlow on David Bedoya | Audio, AI &amp; Machine Learning</title>
-    <link>https://jdavibedoya.github.io/tags/tensorflow/</link>
-    <description>Recent content in TensorFlow on David Bedoya | Audio, AI &amp; Machine Learning</description>
+    <title>TensorFlow&#34; on David Bedoya | Audio, AI &amp; Machine Learning</title>
+    <link>http://localhost:1313/tags/tensorflow/</link>
+    <description>Recent content in TensorFlow&#34; on David Bedoya | Audio, AI &amp; Machine Learning</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jdavibedoya.github.io/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Neural Style Transfer</title>
-      <link>https://jdavibedoya.github.io/projects/neural-style-transfer/</link>
+      <link>http://localhost:1313/projects/neural-style-transfer/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>https://jdavibedoya.github.io/projects/neural-style-transfer/</guid>
+      <guid>http://localhost:1313/projects/neural-style-transfer/</guid>
       <description>Implementation of Neural Style Transfer using TensorFlow and the VGG19 network.</description>
     </item>
+  </channel>
+</rss>
+item>
   </channel>
 </rss>
