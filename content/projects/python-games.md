@@ -3,7 +3,7 @@ title: "Interactive Python Games"
 date: 2025-12-10
 draft: false
 description: "Games developed as part of the 'An Introduction to Interactive Programming in Python' course by Rice University."
-tags: ["Python", "OOP", "Game", "Rice University"]
+tags: ["Python", "Games"]
 cover:
     image: "/projects/python-games/spaceship.png"
     alt: "Spaceship"
