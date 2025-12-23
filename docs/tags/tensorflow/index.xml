@@ -15,8 +15,12 @@
       <guid>https://jdavibedoya.github.io/projects/ff-music-lstm/</guid>
       <description>Fusing Final Fantasy VII and X Music with LSTM Neural Networks</description>
     </item>
-  </channel>
-</rss>
-   </item>
+    <item>
+      <title>Neural Style Transfer</title>
+      <link>https://jdavibedoya.github.io/projects/neural-style-transfer/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://jdavibedoya.github.io/projects/neural-style-transfer/</guid>
+      <description>Implementation of Neural Style Transfer using TensorFlow and the VGG19 network.</description>
+    </item>
   </channel>
 </rss>

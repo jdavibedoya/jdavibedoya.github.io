@@ -3,7 +3,7 @@ title: "Neural Style Transfer"
 date: 2025-12-12
 draft: false
 description: "Implementation of Neural Style Transfer using TensorFlow and the VGG19 network."
-tags: ["Deep Learning", "Python", TensorFlow", "CNN", "Computer Vision", "Art"]
+tags: ["Deep Learning", "Python", "TensorFlow", "CNN", "Computer Vision", "Art"]
 cover:
     image: "/projects/neural-style-transfer/example.png"
     alt: "Neural Style Transfer Result"
