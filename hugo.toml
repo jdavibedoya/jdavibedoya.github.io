@@ -10,7 +10,7 @@ publishDir = "docs"
   
   [params.homeInfoParams]
     Title = "Hi there 👋"
-    Content = "Welcome to my portfolio. I am an Electronics Engineer with an M.Sc. degree in Sound and Music Computing, exploring the intersection of audio and artificial intelligence. I am currently seeking a **Junior role in AI / Machine Learning**, aiming to apply my technical skills, fast-learning capabilities, and academic discipline."
+    Content = "Welcome to my portfolio. **Electronics Engineer** and **M.Sc. in Sound and Music Computing**. After 5 years as a university lecturer, I am transitioning to the tech industry to focus on **AI / Machine Learning**. I am currently seeking a **junior role** to apply my technical skills in **Python** and **Deep Learning**, my fast learning ability, and my academic discipline."
     
   [[params.socialIcons]]
     name = "github"
