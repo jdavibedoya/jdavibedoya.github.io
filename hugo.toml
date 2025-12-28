@@ -9,9 +9,11 @@ publishDir = "docs"
   # description = "Audio, AI & Data Science Portfolio"
   
   [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my portfolio. I am an **Electronics Engineer** and **M.Sc. in Sound and Music Computing**.  
-After 5 years as a university lecturer, I am transitioning to the tech industry to focus on **AI / Machine Learning**. I am currently seeking a **junior role** where I can apply my technical skills in **Python** and **Deep Learning**, combined with my fast learning ability and **academic discipline**."
+    Title = "Welcome to my portfolio! 👋"
+    Content = """
+I am an **Electronics Engineer** and **M.Sc. in Sound and Music Computing**. <br><br>
+After 5 years as a university lecturer, I am transitioning to the tech industry to focus on **AI / Machine Learning**. I am currently seeking a **junior role** where I can apply my technical skills in **Python** and **Deep Learning**, combined with my fast learning ability and academic discipline.
+"""
     
   [[params.socialIcons]]
     name = "github"
