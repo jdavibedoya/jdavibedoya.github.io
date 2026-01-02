@@ -12,8 +12,8 @@ description: "Engineer and Lifelong Learner"
 
 ---
 
-**Electronics Engineer** holding an **M.Sc. in Sound and Music Computing**.   
-After five years of experience as a university lecturer, I am transitioning my career into the technology industry. I am currently seeking a **Junior role in AI / Machine Learning**, aiming to apply my technical skills, fast-learning capabilities, and academic discipline.
+**Electronics Engineer** and **M.Sc. in Sound and Music Computing**.  
+After 5 years as a university lecturer, I am transitioning to the tech industry to focus on **AI / Machine Learning**. I am currently seeking a **junior role** where I can apply my technical skills in **Python** and **Deep Learning**, combined with my fast learning ability and academic discipline.
 
 <ul>
     <li><a href="/CV.pdf" target="_blank">📄 View CV (Spanish PDF)</a></li>
