@@ -16,7 +16,7 @@ description: "Engineer and Lifelong Learner"
 After 5 years as a university lecturer, I am transitioning to the tech industry to focus on **AI / Machine Learning**. I am currently seeking a **junior role** where I can apply my technical skills in **Python** and **Deep Learning**, combined with my fast learning ability and academic discipline.
 
 <ul>
-    <li><a href="/CV.pdf" target="_blank">📄 View CV (Spanish PDF)</a></li>
+    <li><a href="/CV.pdf" target="_blank">📄 View CV (PDF)</a></li>
 </ul>
 
 ---
@@ -24,9 +24,9 @@ After 5 years as a university lecturer, I am transitioning to the tech industry 
 ### 🛠 Tech Stack
 <div style="font-size: 0.85em;">
 
-* **Languages:** Python (Strong), C++ (Basic).
+* **Programming Languages:** Python (Advanced), C++ (Basic).
 * **AI & Data:** TensorFlow, Keras, Scikit-learn, Pandas.
 * **Audio:** Librosa, DSP, Music Production (Ableton).
-* **Languages:** Spanish (Native), English (B2).
+* **Languages:** Spanish (Native), English (TOEFL B2).
 
 </div>
