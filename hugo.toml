@@ -1,6 +1,6 @@
 baseURL = "https://jdavibedoya.github.io/"
 languageCode = "en-us"
-title = "David Bedoya | Audio & AI/ML Engineer"
+title = "David Bedoya | Audio & AI/ML Engineering"
 theme = "PaperMod"
 publishDir = "docs"
 
