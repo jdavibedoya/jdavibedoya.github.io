@@ -30,7 +30,7 @@ After 5 years as a university lecturer, I am pivoting to the tech industry as an
 
 ## Beyond the Algorithm
 
-### 🎸 Music
+### 🥁 Music
 Active member of **SAYCO** and **ACINPRO** with multiple registered works. Below, featured performances as a drummer with **Shimura Cinema**.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 2rem 0;">
