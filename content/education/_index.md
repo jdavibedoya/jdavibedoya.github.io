@@ -37,5 +37,4 @@ I am a firm believer in lifelong learning. I have completed a wide range of cour
 * <a href="https://coursera.org/verify/specialization/6CC4UBC7DN6B" target="_blank"><strong>Modern Musician Specialization</strong></a> (Berklee) - <small>Songwriting, Production.</small>
 * *Coursework:* Hugging Face Audio Course, Digital Signal Processing (DSP), Music Information Retrieval (MIR), Music Perception & Cognition.
 
----
 <small>*<a href="https://docs.google.com/spreadsheets/d/1vI0m2VZqX70C3O-jIslcLi4rPWCM4s82_xHORWkdAZk/" target="_blank">View full list of courses.</a>*</small>

@@ -6,14 +6,21 @@
     <description>Recent content on David Bedoya | Audio &amp; AI/ML Engineering</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jdavibedoya.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A lo Paisa: Agentic Voice Workflow</title>
+      <link>https://jdavibedoya.github.io/projects/a-lo-paisa/</link>
+      <pubDate>Tue, 26 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://jdavibedoya.github.io/projects/a-lo-paisa/</guid>
+      <description>An AI-driven audio transformation pipeline designed to adapt speech into the Paisa dialect of Antioquia (Colombia), using STT, LLM, and TTS.</description>
+    </item>
     <item>
       <title>Music Generation with an LSTM Net</title>
       <link>https://jdavibedoya.github.io/projects/ff-music-lstm/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://jdavibedoya.github.io/projects/ff-music-lstm/</guid>
-      <description>Fusing Final Fantasy VII and X Music with LSTM Neural Networks</description>
+      <description>Fusing Final Fantasy VII and X Music with LSTM Neural Networks.</description>
     </item>
     <item>
       <title>Neural Style Transfer</title>

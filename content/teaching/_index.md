@@ -64,7 +64,7 @@ I have lectured at **Institución Universitaria ITM (Medellín, Colombia)** for 
 <details name="slides">
 <summary style="cursor: pointer; margin-bottom: 10px;"><strong style="text-decoration: underline;">Timbre & Masking</strong> <br> <em>Acoustics of Timbre, Psychoacoustics of Timbre, Auditory Masking.</em></summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT_MtV9d_7KD2KuR7Sr5Rpd0Xy6ZV6EsQMTfocT1I_xzRasfLXvFKOLDUW73cPbqkHnl6WUyFHtvMpL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0;"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSbHSGBt2xV1AKc8c2rIGra09UoyqA6R-wQfYGeQXvbc2xL4rfrGE23sbXuJ2hRXozpp8AaI24s_S-8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0;"></iframe>
 </div>
 <br>
 </details>
@@ -100,7 +100,7 @@ I have lectured at **Institución Universitaria ITM (Medellín, Colombia)** for 
 <details name="slides">
 <summary style="cursor: pointer; margin-bottom: 10px;"><strong style="text-decoration: underline;">Loudspeakers & Enclosures</strong> <br> <em>Dynamic Drivers, Horns, Crossovers, Enclosure Design, Specs.</em></summary>
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSKCFsIZi78_T1-YPAwfVvQYXmb32I_qNZTuRYY3GMcXTZENu7kHDngs8D2BnIsrw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0;"></iframe>
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ9G2vSFnj9BRPuF_FQQ4D8kqY7yxS3clWnP13DoEDCbA-ftHF59k4NrOQ3ajaA4L6dIXdVhup3VWu0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="100%" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="position: absolute; top: 0; left: 0;"></iframe>
 </div>
 <br>
 </details>
