@@ -11,7 +11,7 @@ description: "Engineer and Lifelong Learner"
 ---
 
 **Electronics Engineer & M.Sc. in Sound and Music Computing**.<br>
-After a rewarding chapter as a university lecturer in music technology, I am shifting my focus to become an AI/ML Engineer. I combine academic rigor and problem-solving skills with hands-on development in Python and Deep Learning. I seek a team where I can contribute my signal processing background while continuously learning and adapting to industry standards.
+After a rewarding chapter as a university lecturer in music technology, I am transitioning into AI/ML engineering. I bring together academic rigor, problem-solving skills, and hands-on experience in Python, Deep Learning, and Signal Processing. I seek a team where I can contribute technically while continuing to learn and adapt to industry standards.
 
 <ul>
     <li><a href="/CV.pdf" target="_blank">📄 <strong>Download CV (PDF)</strong></a></li>
