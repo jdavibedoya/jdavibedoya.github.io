@@ -30,7 +30,7 @@ This project emphasizes **AI Engineering**, showcasing how to orchestrate AI mod
       <td rowspan="2" style="font-size: 0.80em; vertical-align: middle;">
         <em>Idioma:</em> <code>español</code><br>
         <em>Exageración:</em> <code>2</code><br>
-        <em>Registro:</em> <code>urbano</code>
+        <em>Registro:</em> <code>montañero</code>
       </td>
       <td style="padding-right: 15px;">
         <audio controls style="width: 100%;"><source src="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_input.wav" type="audio/wav"></audio>
@@ -51,7 +51,7 @@ This project emphasizes **AI Engineering**, showcasing how to orchestrate AI mod
       <td rowspan="2" style="font-size: 0.80em; vertical-align: middle;">
         <em>Idioma:</em> <code>inglés</code><br>
         <em>Exageración:</em> <code>2</code><br>
-        <em>Registro:</em> <code>montañero</code>
+        <em>Registro:</em> <code>urbano</code>
       </td>
       <td style="padding-right: 15px;">
         <audio controls style="width: 100%;"><source src="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_input.wav" type="audio/wav"></audio>
