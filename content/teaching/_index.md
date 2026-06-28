@@ -5,7 +5,7 @@ draft: false
 description: "Slide Decks from Undergraduate Courses"
 ---
 
-I have lectured at **Institución Universitaria ITM (Medellín, Colombia)** for the past five years, teaching Recording, Audio Processing, Psychoacoustics, and Electroacoustics.
+I have lectured at **Institución Universitaria ITM (Medellín, Colombia)**, teaching Recording, Audio Processing, Psychoacoustics, and Electroacoustics.
 
 <small>*Note: Click on a title to open the presentation. Descriptions are in English; slides in Spanish.*</small>
 

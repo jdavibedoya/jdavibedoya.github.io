@@ -12,7 +12,7 @@ publishDir = "docs"
     Title = "Welcome to my portfolio! 👋"
     Content = """
 **Electronics Engineer & M.Sc. in Sound and Music Computing**. <br>
-After a rewarding chapter as a university lecturer in music technology, I am transitioning into AI/ML engineering. I bring together academic rigor, problem-solving skills, and hands-on experience in Python, Deep Learning, and Signal Processing. I seek a team where I can contribute technically while continuing to learn and adapt to industry standards.
+Transitioning from music technology lecturer to AI/ML Engineer. I bring academic rigor and hands-on experience in Python, Deep Learning, and DSP. I am a lifelong learner seeking a team to deliver technical value and master industry standards.
 """
     
   [[params.socialIcons]]
@@ -52,5 +52,3 @@ After a rewarding chapter as a university lecturer in music technology, I am tra
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-# Forzando reconstrucción del sitio

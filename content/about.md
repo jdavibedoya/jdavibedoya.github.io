@@ -4,14 +4,14 @@ hidemeta: true
 description: "Engineer and Lifelong Learner"
 ---
 
-<img src="/profile.png" alt="Jose David Bedoya" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover">
+<img src="/profile.png" alt="David Bedoya" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover">
 
 <strong>Email:</strong> <a href="mailto:jdavibedoya@gmail.com">jdavibedoya@gmail.com</a>
 
 ---
 
 **Electronics Engineer & M.Sc. in Sound and Music Computing**.<br>
-After a rewarding chapter as a university lecturer in music technology, I am transitioning into AI/ML engineering. I bring together academic rigor, problem-solving skills, and hands-on experience in Python, Deep Learning, and Signal Processing. I seek a team where I can contribute technically while continuing to learn and adapt to industry standards.
+Transitioning from music technology lecturer to AI/ML Engineer. I bring academic rigor and hands-on experience in Python, Deep Learning, and DSP. I am a lifelong learner seeking a team to deliver technical value and master industry standards.
 
 <ul>
     <li><a href="/CV.pdf" target="_blank">📄 <strong>Download CV (PDF)</strong></a></li>
@@ -20,10 +20,10 @@ After a rewarding chapter as a university lecturer in music technology, I am tra
 ---
 
 ## 🛠 Tech Stack
-
-* **Programming Languages:** Python (Advanced), C++ (Basic).
-* **AI & Data:** TensorFlow, Keras, Scikit-learn, Pandas.
-* **Audio:** Librosa, DSP, Music Production (Ableton).
+* **Programming:** Python (Advanced), C++ (Basic).
+* **AI & ML:** TensorFlow, PyTorch, LLM, RAG, Agentic AI, Claude Code.
+* **Tools:** Git, Hugging Face, Docker.
+* **Audio & DSP:** Librosa, Pure Data, Ableton (Music Production).
 * **Languages:** Spanish (Native), English (TOEFL B2).
 
 ---
@@ -49,7 +49,7 @@ Following my father’s footsteps through the mountains of southwestern Antioqui
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center; justify-content: center; margin-top: 2rem;">
     <div style="flex: 1; min-width: 250px; max-width: 350px;">
-        <img src="/runnin.jpg" alt="Running" style="border-radius: 8px; width: 100%; height: auto;">
+        <img src="/running.jpg" alt="Running" style="border-radius: 8px; width: 100%; height: auto;">
     </div>
     <div style="flex: 1; min-width: 250px;">
         <h3 style="margin-top: 0;">Personal Records</h3>

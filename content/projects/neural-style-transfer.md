@@ -2,8 +2,8 @@
 title: "Neural Style Transfer"
 date: 2025-12-12
 draft: false
-description: "Implementation of Neural Style Transfer using TensorFlow and the VGG19 network."
-summary: "Implementation of Neural Style Transfer using TensorFlow and the VGG19 network."
+description: "Image stylization using a pre-trained VGG19 CNN in TensorFlow."
+summary: "Image stylization using a pre-trained VGG19 CNN in TensorFlow."
 tags: ["Deep Learning", "Python", "TensorFlow", "CNN", "Computer Vision", "Art"]
 cover:
     image: "/projects/neural-style-transfer/example.png"

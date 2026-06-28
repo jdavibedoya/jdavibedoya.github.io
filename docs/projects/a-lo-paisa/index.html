@@ -5,9 +5,9 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>A lo Paisa: Agentic Voice Workflow | David Bedoya | Audio &amp; AI/ML Engineering</title>
-<meta name="keywords" content="Agentic AI, Speech-to-Text, LLM, Text-to-Speech, Hugging Face">
-<meta name="description" content="An AI-driven audio transformation pipeline designed to adapt speech into the Paisa dialect of Antioquia (Colombia), using STT, LLM, and TTS.">
+<title>A lo Paisa | David Bedoya | Audio &amp; AI/ML Engineering</title>
+<meta name="keywords" content="AI Engineering, Python, Speech-to-Text, LLM, RAG, Text-to-Speech, Voice Cloning, PyTorch, Hugging Face, Docker">
+<meta name="description" content="Voice-to-Voice Pipeline for Antioquian Spanish.">
 <meta name="author" content="">
 <link rel="canonical" href="https://jdavibedoya.github.io/projects/a-lo-paisa/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.343cc480b9ffc8f04ccbe5e968ad674880cab773ec19905e93033065c1e7a804.css" integrity="sha256-NDzEgLn/yPBMy&#43;XpaK1nSIDKt3PsGZBekwMwZcHnqAQ=" rel="preload stylesheet" as="style">
@@ -72,21 +72,24 @@
 
 </script><meta property="og:url" content="https://jdavibedoya.github.io/projects/a-lo-paisa/">
   <meta property="og:site_name" content="David Bedoya | Audio & AI/ML Engineering">
-  <meta property="og:title" content="A lo Paisa: Agentic Voice Workflow">
-  <meta property="og:description" content="An AI-driven audio transformation pipeline designed to adapt speech into the Paisa dialect of Antioquia (Colombia), using STT, LLM, and TTS.">
+  <meta property="og:title" content="A lo Paisa">
+  <meta property="og:description" content="Voice-to-Voice Pipeline for Antioquian Spanish.">
   <meta property="og:locale" content="en-us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="projects">
-    <meta property="article:published_time" content="2026-05-26T00:00:00+00:00">
-    <meta property="article:modified_time" content="2026-05-26T00:00:00+00:00">
-    <meta property="article:tag" content="Agentic AI">
+    <meta property="article:published_time" content="2026-06-26T00:00:00+00:00">
+    <meta property="article:modified_time" content="2026-06-26T00:00:00+00:00">
+    <meta property="article:tag" content="AI Engineering">
+    <meta property="article:tag" content="Python">
     <meta property="article:tag" content="Speech-to-Text">
     <meta property="article:tag" content="LLM">
+    <meta property="article:tag" content="RAG">
     <meta property="article:tag" content="Text-to-Speech">
-    <meta property="article:tag" content="Hugging Face">
-<meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="A lo Paisa: Agentic Voice Workflow">
-<meta name="twitter:description" content="An AI-driven audio transformation pipeline designed to adapt speech into the Paisa dialect of Antioquia (Colombia), using STT, LLM, and TTS.">
+    <meta property="og:image" content="https://github.com/jdavibedoya/a-lo-paisa/raw/refs/heads/main/assets/architecture_diagram.webp">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://github.com/jdavibedoya/a-lo-paisa/raw/refs/heads/main/assets/architecture_diagram.webp">
+<meta name="twitter:title" content="A lo Paisa">
+<meta name="twitter:description" content="Voice-to-Voice Pipeline for Antioquian Spanish.">
 
 
 <script type="application/ld+json">
@@ -103,7 +106,7 @@
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "A lo Paisa: Agentic Voice Workflow",
+      "name": "A lo Paisa",
       "item": "https://jdavibedoya.github.io/projects/a-lo-paisa/"
     }
   ]
@@ -113,17 +116,17 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "A lo Paisa: Agentic Voice Workflow",
-  "name": "A lo Paisa: Agentic Voice Workflow",
-  "description": "An AI-driven audio transformation pipeline designed to adapt speech into the Paisa dialect of Antioquia (Colombia), using STT, LLM, and TTS.",
+  "headline": "A lo Paisa",
+  "name": "A lo Paisa",
+  "description": "Voice-to-Voice Pipeline for Antioquian Spanish.",
   "keywords": [
-    "Agentic AI", "Speech-to-Text", "LLM", "Text-to-Speech", "Hugging Face"
+    "AI Engineering", "Python", "Speech-to-Text", "LLM", "RAG", "Text-to-Speech", "Voice Cloning", "PyTorch", "Hugging Face", "Docker"
   ],
-  "articleBody": "Project Status 🛠️ Under active development | Target release: June 2026\nCore Architecture Speech-to-Text (STT): Transcribes raw audio into text. Dialect Adaptation (LLM): An LLM agent restructures the text to match the Paisa dialect while preserving the original meaning. Neural Synthesis (TTS): The transformed text is converted back into speech using neural speech synthesis. ",
-  "wordCount" : "54",
+  "articleBody": "⛰️🫓 Project Overview End-to-end voice pipeline that transforms speech audio into Paisa Spanish (Antioquia, Colombia) using a cloned voice.\nThis project emphasizes AI Engineering, showcasing how to orchestrate AI models into a production-ready Python package. The architecture leverages open-weight models for audio processing (STT and Zero-Shot TTS), free tiers for LLM/embedding APIs and serverless deployment on Hugging Face Spaces, uv for deterministic dependency resolution and Docker for containerization. This approach differs from the first projects in my portfolio and the master’s thesis developed during my internship at Voctro Labs, which focused on model architecture and training in Jupyter/Colab.\n🎧 Examples Dials Input Output Idioma: español\nExageración: 2\nRegistro: urbano ⬇️ Download\n“Hoy es un día tranquilo en la montaña con algo de lluvia y un cielo gris me gusta correr temprano y escuchar música” ⬇️ Download\n“Hoy está el día como tranquilito por acá en la montaña, con una agüita y el cielo medio gris. A mí me gusta, pues, correr bien tempranito y escuchar música.\" Idioma: inglés\nExageración: 2\nRegistro: montañero ⬇️ Download\n“She can scoop these things into three red bags and we will go meet her Wednesday at the train station.\" ⬇️ Download\n“Ella puede meter esas cositas en tres bolsas rojas y nos pillamos con ella el miércoles en la estación del tren, ¿sí o qué?\" 🚀 Hugging Face Space 🎚️ Dials Idioma de entrada: español | inglés | otro Exageración: 1 (suave) | 2 (cotidiano) | 3 (recargado) Registro: urbano (parlache) | montañero (rural / tradicional) ⚙️ Pipeline Stages Input Voice STT (Speech-to-Text): Automatically detects the language if set to otro. (Translation): Handled by an LLM (triggered only if the Idioma de entrada dial is inglés or otro). Paisa Rewriting: An LLM rewrites the text, enriched by semantic RAG against a curated glossary. This stage is modulated by the Exageración and Registro dials. TTS (Text-to-Speech): Synthesizes the text with a cloned voice. The Exageración dial influences the model’s prosodic variance and acoustic expressiveness. Output Voice 🧠 Models Stage Model STT faster-whisper small, int8 Translation / Rewriting Gemini 2.5-flash Embeddings (RAG) gemini-embedding-001, dim 768 TTS Chatterbox V3 (Multilingual) + es-MX Language Pack 🔗 GitHub Repository Visit the repository to view the source code and detailed architectural decisions.\n",
+  "wordCount" : "371",
   "inLanguage": "en",
-  "datePublished": "2026-05-26T00:00:00Z",
-  "dateModified": "2026-05-26T00:00:00Z",
+  "image":"https://github.com/jdavibedoya/a-lo-paisa/raw/refs/heads/main/assets/architecture_diagram.webp","datePublished": "2026-06-26T00:00:00Z",
+  "dateModified": "2026-06-26T00:00:00Z",
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://jdavibedoya.github.io/projects/a-lo-paisa/"
@@ -197,34 +200,113 @@
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      A lo Paisa: Agentic Voice Workflow
+      A lo Paisa
     </h1>
     <div class="post-description">
-      An AI-driven audio transformation pipeline designed to adapt speech into the Paisa dialect of Antioquia (Colombia), using STT, LLM, and TTS.
+      Voice-to-Voice Pipeline for Antioquian Spanish.
     </div>
-    <div class="post-meta"><span title='2026-05-26 00:00:00 +0000 UTC'>May 26, 2026</span>
+    <div class="post-meta"><span title='2026-06-26 00:00:00 +0000 UTC'>June 26, 2026</span>
 
 </div>
   </header> 
-  <div class="post-content"><h3 id="project-status">Project Status<a hidden class="anchor" aria-hidden="true" href="#project-status">#</a></h3>
-<p>🛠️ <strong>Under active development</strong> | Target release: <strong>June 2026</strong></p>
-<h3 id="core-architecture">Core Architecture<a hidden class="anchor" aria-hidden="true" href="#core-architecture">#</a></h3>
+<figure class="entry-cover">
+        <img loading="eager" src="https://github.com/jdavibedoya/a-lo-paisa/raw/refs/heads/main/assets/architecture_diagram.webp" alt="Architecture Workflow - Illustrated with ChatGPT">
+        <figcaption>Architecture Workflow - Illustrated with ChatGPT</figcaption>
+</figure>
+  <div class="post-content"><h3 id="-project-overview">⛰️🫓 Project Overview<a hidden class="anchor" aria-hidden="true" href="#-project-overview">#</a></h3>
+<p>End-to-end voice pipeline that transforms speech audio into Paisa Spanish (Antioquia, Colombia) using a cloned voice.</p>
+<p>This project emphasizes <strong>AI Engineering</strong>, showcasing how to orchestrate AI models into a production-ready Python package. The architecture leverages open-weight models for audio processing (STT and Zero-Shot TTS), free tiers for LLM/embedding APIs and serverless deployment on Hugging Face Spaces, <code>uv</code> for deterministic dependency resolution and <code>Docker</code> for containerization. This approach differs from the first projects in my portfolio and the <a href="https://zenodo.org/records/4091394">master&rsquo;s thesis</a> developed during my internship at Voctro Labs, which focused on model architecture and training in Jupyter/Colab.</p>
+<h3 id="-examples">🎧 Examples<a hidden class="anchor" aria-hidden="true" href="#-examples">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Dials                                </th>
+          <th style="text-align: left">Input</th>
+          <th style="text-align: left">Output</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><em>Idioma:</em> <code>español</code><br><em>Exageración:</em> <code>2</code><br><em>Registro:</em> <code>urbano</code></td>
+          <td style="text-align: left"><a href="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_input.wav">⬇️ Download</a><br><small>&ldquo;Hoy es un día tranquilo en la montaña con algo de lluvia y un cielo gris me gusta correr temprano y escuchar música&rdquo;</small></td>
+          <td style="text-align: left"><a href="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_output.wav">⬇️ Download</a><br><small>&ldquo;Hoy está el día como tranquilito por acá en la montaña, con una agüita y el cielo medio gris. A mí me gusta, pues, correr bien tempranito y escuchar música.&quot;</small></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><em>Idioma:</em> <code>inglés</code><br><em>Exageración:</em> <code>2</code><br><em>Registro:</em> <code>montañero</code></td>
+          <td style="text-align: left"><a href="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_input.wav">⬇️ Download</a><br><small>&ldquo;She can scoop these things into three red bags and we will go meet her Wednesday at the train station.&quot;</small></td>
+          <td style="text-align: left"><a href="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_output.wav">⬇️ Download</a><br><small>&ldquo;Ella puede meter esas cositas en tres bolsas rojas y nos pillamos con ella el miércoles en la estación del tren, ¿sí o qué?&quot;</small></td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h3 id="-hugging-face-space">🚀 <a href="https://huggingface.co/spaces/jdavibedoya/a-lo-paisa">Hugging Face Space</a><a hidden class="anchor" aria-hidden="true" href="#-hugging-face-space">#</a></h3>
+<iframe
+	src="https://jdavibedoya-a-lo-paisa.hf.space"
+	frameborder="0"
+	width="100%"
+	height="800"
+></iframe>
+<h3 id="-dials">🎚️ Dials<a hidden class="anchor" aria-hidden="true" href="#-dials">#</a></h3>
+<ul>
+<li><em>Idioma de entrada:</em> <code>español</code> | <code>inglés</code> | <code>otro</code></li>
+<li><em>Exageración:</em> <code>1</code> (suave) | <code>2</code> (cotidiano) | <code>3</code> (recargado)</li>
+<li><em>Registro:</em> <code>urbano</code> (parlache) | <code>montañero</code> (rural / tradicional)</li>
+</ul>
+<h3 id="-pipeline-stages">⚙️ Pipeline Stages<a hidden class="anchor" aria-hidden="true" href="#-pipeline-stages">#</a></h3>
 <ol>
-<li><strong>Speech-to-Text (STT):</strong> Transcribes raw audio into text.</li>
-<li><strong>Dialect Adaptation (LLM):</strong> An LLM agent restructures the text to match the Paisa dialect while preserving the original meaning.</li>
-<li><strong>Neural Synthesis (TTS):</strong> The transformed text is converted back into speech using neural speech synthesis.</li>
+<li><strong>Input Voice</strong></li>
+<li><strong>STT (Speech-to-Text):</strong> Automatically detects the language if set to <code>otro</code>.</li>
+<li><strong>(Translation):</strong> Handled by an LLM (triggered only if the <em>Idioma de entrada</em> dial is <code>inglés</code> or <code>otro</code>).</li>
+<li><strong>Paisa Rewriting:</strong> An LLM rewrites the text, enriched by <strong>semantic RAG</strong> against a curated glossary. This stage is modulated by the <em>Exageración</em> and <em>Registro</em> dials.</li>
+<li><strong>TTS (Text-to-Speech):</strong> Synthesizes the text with a cloned voice. The <em>Exageración</em> dial influences the model&rsquo;s prosodic variance and acoustic expressiveness.</li>
+<li><strong>Output Voice</strong></li>
 </ol>
+<hr>
+<h3 id="-models">🧠 Models<a hidden class="anchor" aria-hidden="true" href="#-models">#</a></h3>
+<table>
+  <thead>
+      <tr>
+          <th>Stage</th>
+          <th>Model</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>STT</strong></td>
+          <td>faster-whisper <code>small</code>, int8</td>
+      </tr>
+      <tr>
+          <td><strong>Translation / Rewriting</strong></td>
+          <td>Gemini <code>2.5-flash</code></td>
+      </tr>
+      <tr>
+          <td><strong>Embeddings (RAG)</strong></td>
+          <td><code>gemini-embedding-001</code>, dim 768</td>
+      </tr>
+      <tr>
+          <td><strong>TTS</strong></td>
+          <td>Chatterbox V3 (Multilingual) + es-MX Language Pack</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="-github-repository">🔗 <a href="https://github.com/jdavibedoya/a-lo-paisa">GitHub Repository</a><a hidden class="anchor" aria-hidden="true" href="#-github-repository">#</a></h3>
+<p>Visit the repository to view the source code and detailed architectural decisions.</p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://jdavibedoya.github.io/tags/agentic-ai/">Agentic AI</a></li>
+      <li><a href="https://jdavibedoya.github.io/tags/ai-engineering/">AI Engineering</a></li>
+      <li><a href="https://jdavibedoya.github.io/tags/python/">Python</a></li>
       <li><a href="https://jdavibedoya.github.io/tags/speech-to-text/">Speech-to-Text</a></li>
       <li><a href="https://jdavibedoya.github.io/tags/llm/">LLM</a></li>
+      <li><a href="https://jdavibedoya.github.io/tags/rag/">RAG</a></li>
       <li><a href="https://jdavibedoya.github.io/tags/text-to-speech/">Text-to-Speech</a></li>
+      <li><a href="https://jdavibedoya.github.io/tags/voice-cloning/">Voice Cloning</a></li>
+      <li><a href="https://jdavibedoya.github.io/tags/pytorch/">PyTorch</a></li>
       <li><a href="https://jdavibedoya.github.io/tags/hugging-face/">Hugging Face</a></li>
+      <li><a href="https://jdavibedoya.github.io/tags/docker/">Docker</a></li>
     </ul>
   </footer>
 </article>

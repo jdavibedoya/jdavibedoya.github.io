@@ -1,9 +1,9 @@
 ---
-title: "Music Generation with an LSTM Net"
-description: "Fusing Final Fantasy VII and X Music with LSTM Neural Networks."
-summary: "Fusing Final Fantasy VII and X Music with LSTM Neural Networks."
+title: "FF-Music-LSTM"
+description: "Fusing Final Fantasy music with an LSTM Network."
+summary: "Fusing Final Fantasy music with an LSTM Network."
 date: 2025-12-22
-tags: ["Deep Learning", "Python", "TensorFlow", "LSTM", "Music Generation", "Art", "Games"]
+tags: ["Deep Learning", "Python", "TensorFlow", "LSTM", "Algorithmic Composition", "Art"]
 cover:
     image: "https://raw.githubusercontent.com/jdavibedoya/ff-music-lstm/main/images/ffvii-x.png"
     alt: "Artistic fusion of FF VII and FF X"
