@@ -2,136 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on David Bedoya | Audio &amp; AI/ML Engineering</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://jdavibedoya.github.io/tags/</link>
     <description>Recent content in Tags on David Bedoya | Audio &amp; AI/ML Engineering</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jun 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://jdavibedoya.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI Engineering</title>
-      <link>http://localhost:1313/tags/ai-engineering/</link>
+      <link>https://jdavibedoya.github.io/tags/ai-engineering/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai-engineering/</guid>
+      <guid>https://jdavibedoya.github.io/tags/ai-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Docker</title>
-      <link>http://localhost:1313/tags/docker/</link>
+      <link>https://jdavibedoya.github.io/tags/docker/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/docker/</guid>
+      <guid>https://jdavibedoya.github.io/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugging Face</title>
-      <link>http://localhost:1313/tags/hugging-face/</link>
+      <link>https://jdavibedoya.github.io/tags/hugging-face/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/hugging-face/</guid>
+      <guid>https://jdavibedoya.github.io/tags/hugging-face/</guid>
       <description></description>
     </item>
     <item>
       <title>LLM</title>
-      <link>http://localhost:1313/tags/llm/</link>
+      <link>https://jdavibedoya.github.io/tags/llm/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/llm/</guid>
+      <guid>https://jdavibedoya.github.io/tags/llm/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://jdavibedoya.github.io/tags/python/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://jdavibedoya.github.io/tags/python/</guid>
       <description></description>
     </item>
     <item>
       <title>PyTorch</title>
-      <link>http://localhost:1313/tags/pytorch/</link>
+      <link>https://jdavibedoya.github.io/tags/pytorch/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pytorch/</guid>
+      <guid>https://jdavibedoya.github.io/tags/pytorch/</guid>
       <description></description>
     </item>
     <item>
       <title>RAG</title>
-      <link>http://localhost:1313/tags/rag/</link>
+      <link>https://jdavibedoya.github.io/tags/rag/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/rag/</guid>
+      <guid>https://jdavibedoya.github.io/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>Speech-to-Text</title>
-      <link>http://localhost:1313/tags/speech-to-text/</link>
+      <link>https://jdavibedoya.github.io/tags/speech-to-text/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/speech-to-text/</guid>
+      <guid>https://jdavibedoya.github.io/tags/speech-to-text/</guid>
       <description></description>
     </item>
     <item>
       <title>Text-to-Speech</title>
-      <link>http://localhost:1313/tags/text-to-speech/</link>
+      <link>https://jdavibedoya.github.io/tags/text-to-speech/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/text-to-speech/</guid>
+      <guid>https://jdavibedoya.github.io/tags/text-to-speech/</guid>
       <description></description>
     </item>
     <item>
       <title>Voice Cloning</title>
-      <link>http://localhost:1313/tags/voice-cloning/</link>
+      <link>https://jdavibedoya.github.io/tags/voice-cloning/</link>
       <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/voice-cloning/</guid>
+      <guid>https://jdavibedoya.github.io/tags/voice-cloning/</guid>
       <description></description>
     </item>
     <item>
       <title>Algorithmic Composition</title>
-      <link>http://localhost:1313/tags/algorithmic-composition/</link>
+      <link>https://jdavibedoya.github.io/tags/algorithmic-composition/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/algorithmic-composition/</guid>
+      <guid>https://jdavibedoya.github.io/tags/algorithmic-composition/</guid>
       <description></description>
     </item>
     <item>
       <title>Art</title>
-      <link>http://localhost:1313/tags/art/</link>
+      <link>https://jdavibedoya.github.io/tags/art/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/art/</guid>
+      <guid>https://jdavibedoya.github.io/tags/art/</guid>
       <description></description>
     </item>
     <item>
       <title>Deep Learning</title>
-      <link>http://localhost:1313/tags/deep-learning/</link>
+      <link>https://jdavibedoya.github.io/tags/deep-learning/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/deep-learning/</guid>
+      <guid>https://jdavibedoya.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>LSTM</title>
-      <link>http://localhost:1313/tags/lstm/</link>
+      <link>https://jdavibedoya.github.io/tags/lstm/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lstm/</guid>
+      <guid>https://jdavibedoya.github.io/tags/lstm/</guid>
       <description></description>
     </item>
     <item>
       <title>TensorFlow</title>
-      <link>http://localhost:1313/tags/tensorflow/</link>
+      <link>https://jdavibedoya.github.io/tags/tensorflow/</link>
       <pubDate>Mon, 22 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tensorflow/</guid>
+      <guid>https://jdavibedoya.github.io/tags/tensorflow/</guid>
       <description></description>
     </item>
     <item>
       <title>CNN</title>
-      <link>http://localhost:1313/tags/cnn/</link>
+      <link>https://jdavibedoya.github.io/tags/cnn/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cnn/</guid>
+      <guid>https://jdavibedoya.github.io/tags/cnn/</guid>
       <description></description>
     </item>
     <item>
       <title>Computer Vision</title>
-      <link>http://localhost:1313/tags/computer-vision/</link>
+      <link>https://jdavibedoya.github.io/tags/computer-vision/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/computer-vision/</guid>
+      <guid>https://jdavibedoya.github.io/tags/computer-vision/</guid>
       <description></description>
     </item>
     <item>
       <title>Games</title>
-      <link>http://localhost:1313/tags/games/</link>
+      <link>https://jdavibedoya.github.io/tags/games/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/games/</guid>
+      <guid>https://jdavibedoya.github.io/tags/games/</guid>
       <description></description>
     </item>
   </channel>
