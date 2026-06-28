@@ -17,12 +17,60 @@ End-to-end voice pipeline that transforms speech audio into Paisa Spanish (Antio
 This project emphasizes **AI Engineering**, showcasing how to orchestrate AI models into a production-ready Python package. The architecture leverages open-weight models for audio processing (STT and Zero-Shot TTS), free tiers for LLM/embedding APIs and serverless deployment on Hugging Face Spaces, `uv` for deterministic dependency resolution and `Docker` for containerization. This approach differs from the first projects in my portfolio and the [master's thesis](https://zenodo.org/records/4091394) developed during my internship at Voctro Labs, which focused on model architecture and training in Jupyter/Colab.
 
 ### 🎧 Examples
-| Dials&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Input | Output |
-| :--- | :--- | :--- |
-| *Idioma:* `español`<br>*Exageración:* `2`<br>*Registro:* `urbano` | [⬇️ Download](https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_input.wav)<br><small>"Hoy es un día tranquilo en la montaña con algo de lluvia y un cielo gris me gusta correr temprano y escuchar música"</small> | [⬇️ Download](https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_output.wav)<br><small>"Hoy está el día como tranquilito por acá en la montaña, con una agüita y el cielo medio gris. A mí me gusta, pues, correr bien tempranito y escuchar música."</small> |
-| *Idioma:* `inglés`<br>*Exageración:* `2`<br>*Registro:* `montañero` | [⬇️ Download](https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_input.wav)<br><small>"She can scoop these things into three red bags and we will go meet her Wednesday at the train station."</small> | [⬇️ Download](https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_output.wav)<br><small>"Ella puede meter esas cositas en tres bolsas rojas y nos pillamos con ella el miércoles en la estación del tren, ¿sí o qué?"</small> |
-
----
+<table style="width: 100%; table-layout: fixed;">
+  <thead>
+    <tr>
+      <th style="width: 23%;">Dials</th>
+      <th style="width: 38%; padding-right: 15px;">Input</th>
+      <th style="width: 39%; padding-left: 15px;">Output</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2" style="font-size: 0.80em; vertical-align: middle;">
+        <em>Idioma:</em> <code>español</code><br>
+        <em>Exageración:</em> <code>2</code><br>
+        <em>Registro:</em> <code>urbano</code>
+      </td>
+      <td style="padding-right: 15px;">
+        <audio controls style="width: 100%;"><source src="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_input.wav" type="audio/wav"></audio>
+      </td>
+      <td style="padding-left: 15px;">
+        <audio controls style="width: 100%;"><source src="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/spanish_output.wav" type="audio/wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 15px;">
+        <span style="font-size: 0.65em;">"Hoy es un día tranquilo en la montaña con algo de lluvia y un cielo gris me gusta correr temprano y escuchar música"</span>
+      </td>
+      <td style="padding-left: 15px;">
+        <span style="font-size: 0.65em;">"Hoy está el día como tranquilito por acá en la montaña, con una agüita y el cielo medio gris. A mí me gusta, pues, correr bien tempranito y escuchar música."</span>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2" style="font-size: 0.80em; vertical-align: middle;">
+        <em>Idioma:</em> <code>inglés</code><br>
+        <em>Exageración:</em> <code>2</code><br>
+        <em>Registro:</em> <code>montañero</code>
+      </td>
+      <td style="padding-right: 15px;">
+        <audio controls style="width: 100%;"><source src="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_input.wav" type="audio/wav"></audio>
+      </td>
+      <td style="padding-left: 15px;">
+        <audio controls style="width: 100%;"><source src="https://github.com/jdavibedoya/a-lo-paisa/releases/download/examples/english_output.wav" type="audio/wav"></audio>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding-right: 15px;">
+        <span style="font-size: 0.65em;">"She can scoop these things into three red bags and we will go meet her Wednesday at the train station."</span>
+      </td>
+      <td style="padding-left: 15px;">
+        <span style="font-size: 0.65em;">"Ella puede meter esas cositas en tres bolsas rojas y nos pillamos con ella el miércoles en la estación del tren, ¿sí o qué?"</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+ 
 
 ### 🚀 [Hugging Face Space](https://huggingface.co/spaces/jdavibedoya/a-lo-paisa)
 <iframe
