@@ -12,7 +12,7 @@ cover:
 ---
 
 ### ⛰️🫓 Project Overview
-End-to-end voice pipeline that transforms speech audio into Paisa Spanish (Antioquia, Colombia) using a cloned voice.
+End-to-end voice pipeline that transforms speech audio into Paisa Spanish (Antioquia, Colombia) using my cloned voice.
 
 This project emphasizes **AI Engineering**, showcasing how to orchestrate AI models into a production-ready Python package. The architecture leverages open-weight models for audio processing (STT and Zero-Shot TTS), free tiers for LLM/embedding APIs and serverless deployment on Hugging Face Spaces, `uv` for deterministic dependency resolution and `Docker` for containerization. This approach differs from the first projects in my portfolio and the [master's thesis](https://zenodo.org/records/4091394) developed during my internship at Voctro Labs, which focused on model architecture and training in Jupyter/Colab.
 
@@ -90,7 +90,7 @@ This project emphasizes **AI Engineering**, showcasing how to orchestrate AI mod
 2. **STT (Speech-to-Text):** Automatically detects the language if set to `otro`.
 3. **(Translation):** Handled by an LLM (triggered only if the *Idioma de entrada* dial is `inglés` or `otro`).
 4. **Paisa Rewriting:** An LLM rewrites the text, enriched by **semantic RAG** against a curated glossary. This stage is modulated by the *Exageración* and *Registro* dials.
-5. **TTS (Text-to-Speech):** Synthesizes the text with a cloned voice. The *Exageración* dial influences the model's prosodic variance and acoustic expressiveness.
+5. **TTS (Text-to-Speech):** Synthesizes the text with my cloned voice. The *Exageración* dial influences the model's prosodic variance and acoustic expressiveness.
 6. **Output Voice**
 
 ---
