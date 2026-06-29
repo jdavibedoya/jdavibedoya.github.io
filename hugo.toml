@@ -1,12 +1,12 @@
 baseURL = "https://jdavibedoya.github.io/"
 languageCode = "en-us"
-title = "David Bedoya | Audio & AI/ML Engineering"
+title = "David Bedoya | AI/ML & Audio Engineering"
 theme = "PaperMod"
 publishDir = "docs"
 
 [params]
   defaultTheme = "auto"
-  # description = "Audio & AI/ML Portfolio"
+  # description = "AI/ML & Audio Portfolio"
   
   [params.homeInfoParams]
     Title = "Welcome to my portfolio! 👋"
