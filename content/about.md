@@ -10,8 +10,7 @@ description: "Engineer and Lifelong Learner"
 
 ---
 
-**Electronics Engineer & M.Sc. in Sound and Music Computing**.<br>
-Transitioning from music technology lecturer to AI/ML Engineer. I bring academic rigor and hands-on experience in Python, Deep Learning, and DSP. I am a lifelong learner seeking a team to deliver technical value and master industry standards.
+A teacher by vocation with an endless curiosity for learning. I am an Electronic Engineer (UdeA) with a Master's in Sound and Music Computing (UPF). Beyond the classroom and technology, I find my balance playing the drums, running, and practicing yoga.
 
 <ul>
     <li><a href="/CV.pdf" target="_blank">📄 <strong>Download CV (PDF)</strong></a></li>
