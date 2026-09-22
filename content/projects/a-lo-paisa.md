@@ -73,12 +73,18 @@ This project emphasizes **AI Engineering**, showcasing how to orchestrate AI mod
  
 
 ### 🚀 [Hugging Face Space](https://huggingface.co/spaces/jdavibedoya/a-lo-paisa)
+<div align="center">
+  <img src="/projects/a-lo-paisa/gradio_ui.webp" alt="Gradio Web UI Screenshot" width="100%">
+</div>
+
+<!-- 
 <iframe
 	src="https://jdavibedoya-a-lo-paisa.hf.space"
 	frameborder="0"
 	width="100%"
 	height="800"
 ></iframe>
+ -->
 
 ### 🎚️ Dials
 - *Idioma de entrada:* `español` | `inglés` | `otro`
